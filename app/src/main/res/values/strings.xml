@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MVPMicroProject</string>
+    <string name="football_matches">Football Matches</string>
+    <string name="football_match_info">Football Match Info</string>
+</resources>
